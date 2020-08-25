@@ -1,2 +1,2 @@
-*.md linguist-language="LabVIEW 2020 Development Environment Installer"
-*.txt linguist-language="LabVIEW 2020 Development Environment Installer"
+*.md linguist-language=LabVIEW_2020_Development_Environment_Installer
+*.txt linguist-language=LabVIEW_2020_Development_Environment_Installer
